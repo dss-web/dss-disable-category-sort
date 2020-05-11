@@ -2,7 +2,7 @@
 
 On WordPress post edit screen, disable "checked on top" for selected categories.
 
-<img src="assets/dss-disable-category-sort.png">
+<img src="assets/dss-disable-checked-on-top.png">
 
 The pluging does the following, i.e. you could add this to your (child) theme functions.php:
 
