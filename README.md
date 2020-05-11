@@ -1,6 +1,6 @@
 # Disable Category Sort on Post Screen
 
-On WordPress post edit screen, disable category auto sort for slected categories
+On WordPress post edit screen, disable category auto sort for selected categories.
 
 <img src="assets/dss-disable-category-sort.png">
 
