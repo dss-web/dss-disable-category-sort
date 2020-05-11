@@ -1,21 +1,21 @@
 <?php declare( strict_types = 1 );
 /**
- * DSS Disable Category Sort on Post Screen
+ * DSS Disable Checked On Top
  *
- * @package     DSS Disable Category Sort on Post Screen
+ * @package     DSS Disable Checked On Top
  * @author      Per Soderlind
  * @copyright   2020 Per Soderlind
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name: DSS Disable Category Sort on Post Screen
- * Plugin URI: https://github.com/dss-web/dss-disable-category-sort
- * GitHub Plugin URI: https://github.com/dss-web/dss-disable-category-sort
- * Description: Disable auto sort of categorie and therms on the Post Edit page
- * Version:     0.0.1
+ * Plugin Name: DSS Disable Checked On Top
+ * Plugin URI: https://github.com/dss-web/dss-disable-checked-on-top
+ * GitHub Plugin URI: https://github.com/dss-web/dss-disable-checked-on-top
+ * Description: On the post edit screen, disable "checked on top" for selected categories.
+ * Version:     0.0.2
  * Author:      Per Soderlind
  * Author URI:  https://soderlind.no
- * Text Domain: dss-disable-category-sort
+ * Text Domain: dss-disable-checked-on-top
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
