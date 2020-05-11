@@ -4,7 +4,7 @@ On WordPress post edit screen, disable "checked on top" for selected categories.
 
 <img src="assets/dss-disable-checked-on-top.png">
 
-The pluging does the following, i.e. you could add this to your (child) theme functions.php:
+The plugin does the following, i.e. you could add this to your (child) theme functions.php:
 
 ```php
 add_filter( 'wp_terms_checklist_args', function ( $args ) {
