@@ -1,0 +1,8 @@
+{
+    "name": "dss-web/dss-disable-checked-on-top",
+    "description": "DSS Disable Checked On Top",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/dss-web/dss-disable-checked-on-top",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
